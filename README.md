@@ -7,15 +7,13 @@
 
 - 🔭 I’m currently working on **Full Stack Web Projects and Android Apps**
 
-- 🌱 I’m currently learning **Next.js, TypeScript, MongoDB, and Cloud Deployment**
+- 🌱 I’m currently learning **Node js, JavaScript, MongoDB, and React JS**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://your-portfolio-link.com)
 
 - 📝 I regularly write on [Hashnode](https://your-blog-link.com) or [Medium](https://medium.com/@yourname)
 
-- 📫 How to reach me: **vismay@example.com**
-
-- 📄 Know about my experiences: [Resume](https://your-resume-link.com)
+- 📫 How to reach me: **vis1913886@gmail.com**
 
 - ⚡ Fun fact: I love building things that solve real-world problems 🌍
 
