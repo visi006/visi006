@@ -26,10 +26,16 @@
 ### 📫 Connect with me:
 
 <p align="left">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/vismay-pradeep-2b5148204/" target="_blank">
     <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="30" />
   </a>
-  <a href="mailto:vismay@example.com">
+  <a href="mailto:vis1913886@gmail.com">
     <img align="center" src="https://skillicons.dev/icons?i=gmail" height="30" />
   </a>
-</p>
+  <a href="https://leetcode.com/4wHNUAVp8f/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="30" alt="LeetCode" />
+  </a>
+  <a href="https://www.hackerrank.com/eng23cs0498" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" height="30" alt="HackerRank" />
+  </a>
+</p
