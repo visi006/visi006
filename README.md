@@ -9,10 +9,6 @@
 
 - 🌱 I’m currently learning **Node js, JavaScript, MongoDB, and React JS**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://your-portfolio-link.com)
-
-- 📝 I regularly write on [Hashnode](https://your-blog-link.com) or [Medium](https://medium.com/@yourname)
-
 - 📫 How to reach me: **vis1913886@gmail.com**
 
 - ⚡ Fun fact: I love building things that solve real-world problems 🌍
@@ -22,27 +18,11 @@
 ### 🛠️ Languages and Tools:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,java,flutter,dart,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,c,react,git,github,vscode" />
 </p>
 
----
+------
 
-### 📊 GitHub Stats:
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=vismaypradeep&show_icons=true&locale=en&theme=github_dark" alt="vismaypradeep" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vismaypradeep&theme=github-dark" alt="vismaypradeep" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vismaypradeep&theme=onedark" />
-</p>
-
----
 
 ### 📫 Connect with me:
 
