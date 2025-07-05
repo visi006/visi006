@@ -18,7 +18,7 @@
 ### 🛠️ Languages and Tools:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,c,react,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,c,node,git,github,vscode" />
 </p>
 
 ----
@@ -32,10 +32,9 @@
   <a href="mailto:vis1913886@gmail.com">
     <img align="center" src="https://skillicons.dev/icons?i=gmail" height="30" />
   </a>
-  <a href="https://leetcode.com/4wHNUAVp8f/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="30" alt="LeetCode" />
-  </a>
+  <a href="https://leetcode.com/your_username/">
+  <img src="images/leetcode.png" alt="LeetCode" width="32" height="32">
+</a>
   <a href="https://www.hackerrank.com/eng23cs0498" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" height="30" alt="HackerRank" />
-  </a>
-</p
+  <img src="images/hackerrank.png" alt="LeetCode" width="32" height="32">
+</a>
