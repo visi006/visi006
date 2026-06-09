@@ -18,7 +18,7 @@
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://leetcode.com/">
+<a href="https://leetcode.com/u/VP2006/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
@@ -83,13 +83,13 @@ hobbies:
 ### 🚀 Languages
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp,js" />
+<img src="https://skillicons.dev/icons?i=java,python" />
 </p>
 
 ### 🌐 Frontend
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=html,css,react,js" />
 </p>
 
 </td>
@@ -153,7 +153,6 @@ hobbies:
 * 🔥 MERN Stack Development
 * 🧠 DSA & Competitive Programming
 * ☁ AWS Cloud Fundamentals
-* 🤖 NVIDIA AI Bootcamp
 * 💼 Internship Preparation
 
 ---
