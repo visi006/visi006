@@ -6,10 +6,6 @@
 
 <br>
 
-<a href="https://github.com/visi006">
-<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white"/>
-</a>
-
 <a href="https://www.linkedin.com/in/vismay-pradeep/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
